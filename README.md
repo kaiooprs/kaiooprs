@@ -19,15 +19,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3301naoki&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3301naoki&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 🌐 Onde me encontrar:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaiooprs/)
